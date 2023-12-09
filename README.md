@@ -10,6 +10,10 @@ This web application allows users to generate QR codes for various purposes. QR 
 - CSS
 - JavaScript
 
+## API USED
+
+API Source (https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=)
+
 ## Features
 
 - **QR Code Generation:** Easily generate QR codes by entering text or a URL.
